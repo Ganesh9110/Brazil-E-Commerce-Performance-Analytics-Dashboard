@@ -145,8 +145,10 @@ ORDER BY DATE_VALUE;
 📊 Power BI Dashboard
 
 Page 1 — Executive Overview
+Purpose: High-level business monitoring
 
-->Purpose: High-level business monitoring
+<https://github.com/Ganesh9110/Brazil-E-Commerce-Performance-Analytics-Dashboard/blob/main/Screenshot%202026-02-09%20072316.png
+
 ->Visuals Included:
 ->KPI Cards: Revenue, Orders, Profit, AOV, Delivery %
 ->Monthly Revenue Trend
