@@ -147,7 +147,7 @@ ORDER BY DATE_VALUE;
 Page 1 — Executive Overview
 Purpose: High-level business monitoring
 
-<https://github.com/Ganesh9110/Brazil-E-Commerce-Performance-Analytics-Dashboard/blob/main/Screenshot%202026-02-09%20072316.png
+<img width="1351" height="741" alt="Screenshot 2026-02-09 072316" src="https://github.com/user-attachments/assets/fa06be08-f561-4fdb-a06f-5ff6b2ff48f3" />
 
 ->Visuals Included:
 ->KPI Cards: Revenue, Orders, Profit, AOV, Delivery %
