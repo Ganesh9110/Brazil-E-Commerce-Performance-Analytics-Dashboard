@@ -7,10 +7,15 @@ The dashboard provides actionable insights into revenue, profit, delivery perfor
 🧱 Tech Stack
 
 ->Data Warehouse: Snowflake
+
 ->Query Language: SQL
+
 ->Visualization Tool: Power BI
+
 ->Data Modeling: Star Schema
+
 ->Domain: E-Commerce Analytics
+
 ---------------------------------
 🗂 Dataset Overview
 
@@ -162,6 +167,8 @@ Page 2 — Product & Seller Performance
 
 Purpose: Identify profitable categories and seller efficiency
 
+<img width="1336" height="751" alt="Screenshot 2026-02-09 072339" src="https://github.com/user-attachments/assets/b0c84a18-e70b-4fb0-821b-4db204a81d67" />
+
 ->Visuals Included:
 ->Monthly Profit Trend
 ->Revenue vs Profit by Category
@@ -174,6 +181,8 @@ Purpose: Identify profitable categories and seller efficiency
 Page 3 — Category Drill-Through Analysis
 
 Purpose: Deep-dive analysis per category
+
+<img width="1337" height="753" alt="Screenshot 2026-02-09 072402" src="https://github.com/user-attachments/assets/d8397a8e-c9cf-4520-9475-4e1af33a250d" />
 
 Features:
 
