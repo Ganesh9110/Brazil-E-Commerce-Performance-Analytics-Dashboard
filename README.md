@@ -6,15 +6,11 @@ The dashboard provides actionable insights into revenue, profit, delivery perfor
 ---------------------------------
 🧱 Tech Stack
 
--Data Warehouse: Snowflake
-
--Query Language: SQL
-
--Visualization Tool: Power BI
-
--Data Modeling: Star Schema
-
--Domain: E-Commerce Analytics
+->Data Warehouse: Snowflake
+->Query Language: SQL
+->Visualization Tool: Power BI
+->Data Modeling: Star Schema
+->Domain: E-Commerce Analytics
 ---------------------------------
 🗂 Dataset Overview
 
@@ -38,6 +34,7 @@ Order Reviews
 ----------------------------------------------------
 ⚙️ Data Engineering (Snowflake)
 1️⃣ Warehouse & Database Setup
+
 USE WAREHOUSE Brazil_WH;
 CREATE OR REPLACE DATABASE LIST_DB;
 USE DATABASE LIST_DB;
@@ -191,11 +188,11 @@ Features:
 
 📈 Key Business Insights
 
-->Revenue growth is strongly correlated with on-time delivery
-->Over 94% orders delivered on time, positively impacting ratings
-->A small number of sellers generate a large share of revenue
-->Some high-revenue categories operate with lower profit margins
-->Freight cost optimization presents a major profit opportunity
+->Revenue growth is strongly correlated with on-time delivery.
+->Over 94% orders delivered on time, positively impacting ratings.
+->A small number of sellers generate a large share of revenue.
+->Some high-revenue categories operate with lower profit margins.
+->Freight cost optimization presents a major profit opportunity.
 ---------------------------------------------------------------------
 
 💡 Business Recommendations
